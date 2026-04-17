@@ -19,22 +19,4 @@ Comprender y presentar el funcionamiento de **Git** y **GitHub** como herramient
 - Presentar evidencias de una demostración práctica.
 - Reunir todos los archivos del proyecto en una estructura ordenada.
 
-## Estructura del repositorio
-Sistema-Git-GitHub/
-│
-├── README.md
-├── Informe/
-│   └── informe_git_github.pdf
-├── Presentacion/
-│   └── presentacion_git_github.pptx
-├── Cuestionario/
-│   └── cuestionario_30_preguntas.docx
-├── Documentacion/
-│   └── uso_de_github.docx
-├── Recursos/
-│   └── enlaces_y_fuentes.docx
-├── Evidencias/
-│   ├── capturas/
-│   └── demostracion_grabada.mp4
-└── Comprimido/
-    └── proyecto_demo.rar
+
